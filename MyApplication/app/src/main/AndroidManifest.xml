@@ -40,6 +40,14 @@
         </activity>
         <activity android:name=".Woof"
             android:exported="true">
+
+        </activity>
+        <activity android:name=".Superhero"
+            android:exported="true">
+
+        </activity>
+        <activity android:name=".RaceTracker"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
